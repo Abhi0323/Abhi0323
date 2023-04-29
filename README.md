@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chandragiri</h1>
 <h3 align="center">Data Science Enthusiast: Exploring the Art of Data Analysis and Machine Learning</h3>
 
-<img align="right" alt="coding" height ="500" width="500" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
+<img align="right" alt="coding" height ="400" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
 <p align="left"> <a href="https://www.linkedin.com/in/abhishek-chandragiri/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="500" height="150" /></a> </p>
 
