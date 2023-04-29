@@ -1,28 +1,30 @@
-[![MasterHead]([https://www.omadahealth.com/hubfs/](https://www.omadahealth.com/hubfs/QuantifyingBehavior_Header_Animate_080818-1.gif))]QuantifyingBehavior_Header_Animate_080818-1.gif
+<img src="https://www.omadahealth.com/hubfs/QuantifyingBehavior_Header_Animate_080818-1.gif" alt="MasterHead" width="1200" height="150">
+
 <h1 align="center">Hi 👋, I'm Abhishek Chandragiri</h1>
-<h3 align="center">Empowering Businesses with Data: The Future of Decision-Making</h3>
-<img align =“right” alt=“coding” width=“400” src=“[https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif](https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif)”
+<h3 align="center">Data Science Enthusiast: Exploring the Art of Data Analysis and Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi0323&label=Profile%20views&color=0e75b6&style=flat" alt="abhi0323" /> </p>
+<img align="right" alt="coding" height ="500" width="500" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi0323" alt="abhi0323" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/abhishek-chandragiri/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="500" height="150" /></a> </p>
 
-- 🔭 I’m currently working on **Gas Price Prediction Based on World Oil Reserves**
+- 🔭 I’m currently working on a **Time Series Analysis Project**
 
-- 🌱 I’m currently learning **SPLUNK**
+- 🌱 I’m currently learning **Splunk**
 
-- 👨‍💻 All of my projects are available at [https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/)
 
-- 💬 Ask me about **Data Analysis, Exploratory Data Analysis, Data Visualization**
+- 💬 Ask me about **Data Analysis & Machine Learning**
+
+- ⚡ Fun fact **I am an excellent cook**
 
 - 📫 How to reach me **abhishek.intern0323@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Abhi0323/RESUME_LATEX/blob/main/Abhishek_Chandragiri_Resume.pdf](https://github.com/Abhi0323/RESUME_LATEX/blob/main/Abhishek_Chandragiri_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/Abhi0323/RESUME_LATEX/blob/main/Abhishek_Chandragiri_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-chandragiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-chandragiri/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/____abhi1112____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/____abhi1112____/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-chandragiri/" target="blank"><img align="center" src="https://i.pinimg.com/564x/a1/9c/a4/a19ca4f554614d7224f44db7798db87b.jpg" alt="https://www.linkedin.com/in/abhishek-chandragiri/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/____abhi1112____/" target="blank"><img align="center" src="https://i.pinimg.com/originals/9c/e6/6a/9ce66a7e1727003ea9351dd7a94ea121.gif" alt="https://www.instagram.com/____abhi1112____/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
