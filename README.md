@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Chandragiri</h1>
 <h3 align="center">Data Science Enthusiast: Exploring the Art of Data Analysis and Machine Learning</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi0323&label=Profile%20views&color=0e75b6&style=flat" alt="abhi0323" /> </p>
+
 
 <img align="right" alt="coding" height ="350" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
