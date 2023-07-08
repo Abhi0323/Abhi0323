@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **CrowdStrike - Vulnerability Management Project**
 
-- 🌱 I’m currently learning **Splunk**
+- 🌱 I’m currently learning **Snowflake**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abhishek.intern0323@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/Abhi0323/RESUME_LATEX/blob/main/Abhishek_Chandragiri_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/Abhi0323/RESUME_LATEX/blob/main/Resume_Abhishek_Chandragiri.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
