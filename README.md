@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abhishek.intern0323@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/Abhi0323/RESUME_LATEX/blob/main/Resume_Abhishek_Chandragiri.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/Abhi0323/RESUME_LATEX/blob/main/Chandragiri_Abhishek.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
