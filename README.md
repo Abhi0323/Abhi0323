@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/abhishek-chandragiri/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
 
-- 🔭 I’m currently working on **Generative AI for Business**
+- 🔭 I’m currently working on **Generative AI**
 
 - 🌱 I’m currently learning **Snowflake**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/)
 
-- 💬 Ask me about **Data Analysis & Machine Learning**
+- 💬 Ask me about **Data Analysis, Data Visualization, Business Analysis & Machine Learning**
 
 - ⚡ Fun fact **I am an excellent cook**
 
