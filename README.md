@@ -1,7 +1,7 @@
 <img src="https://www.omadahealth.com/hubfs/QuantifyingBehavior_Header_Animate_080818-1.gif" alt="MasterHead" width="1200" height="150">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Abhishek+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
-<h3 align="center">Data Science Enthusiast: Exploring the Art of Data Analysis, Business Analysis and Machine Learning</h3>
+<h3 align="center">Data Science Enthusiast: Exploring the Art of Data Analysis, Business Analysis and Data Science</h3>
 
 <img align="right" alt="coding" height ="350" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
