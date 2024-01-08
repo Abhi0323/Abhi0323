@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/)
 
-- 💬 Ask me about **Data Analysis, Business Development, Data Visualization, Business Analysis & Machine Learning**
+- 💬 Ask me about **Data Analysis, Business Analytics & Data Science**
 
 - ⚡ Fun fact **I am an excellent cook**
 
