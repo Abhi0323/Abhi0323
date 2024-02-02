@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/abhishek-chandragiri/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
 
-- 🔭 I’m currently working on **Generative AI**
+- 🔭 I’m currently working on **Generative AI Project**
 
 - 🌱 I’m currently learning **Snowflake**
 
