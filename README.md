@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Generative AI Project**
 
-- 🌱 I’m currently learning **Snowflake**
+- 🌱 I’m currently learning **Azure Cloud Services**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/)
 
