@@ -1,34 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abhishek's Profile</title>
-</head>
-<body>
-    <img src="https://www.omadahealth.com/hubfs/QuantifyingBehavior_Header_Animate_080818-1.gif" alt="MasterHead" width="1200" height="150">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Abhishek+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
+<h3 align="center">Data Science Enthusiast: Exploring the Art of Data Analysis, Business Analysis and Data Science</h3>
 
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Abhishek+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
-    <h3 align="center">Data Science Enthusiast: Exploring the Art of Data Analysis, Business Analysis and Data Science</h3>
+<img align="right" alt="coding" height ="350" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
-    <img align="right" alt="coding" height="350" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
+<p align="left"> <a href="https://www.linkedin.com/in/abhishek-chandragiri/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
 
-    <p align="left"> <a href="https://www.linkedin.com/in/abhishek-chandragiri/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
+- 🔭 I’m currently working on **Generative AI Project**
 
-    - 🔭 I’m currently working on **Generative AI Project**
+- 🌱 I’m currently learning **Azure Cloud Services**
 
-    - 🌱 I’m currently learning **Azure Cloud Services**
+- 👨‍💻 All of my projects are available at [Portfolio](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/)
 
-    - 👨‍💻 All of my projects are available at [Portfolio](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/)
+- 💬 Ask me about **Data Analysis, Business Analytics & Data Science**
 
-    - 💬 Ask me about **Data Analysis, Business Analytics & Data Science**
+- ⚡ Fun fact **I am an excellent cook**
 
-    - ⚡ Fun fact **I am an excellent cook**
-
-    - 📫 How to reach me **abhishekchandragiri.ft@gmail.com**
-
-    <!-- Inserting the SVG image here -->
-    <img src="https://yourdomain.com/path/to/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="1200" height="150">
+- 📫 How to reach me **abhishekchandragiri.ft@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
