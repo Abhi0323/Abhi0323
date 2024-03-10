@@ -34,8 +34,20 @@
 <a href="https://developers.google.com/analytics" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="40" height="40"/> </a>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SVG Example</title>
+</head>
+<body>
+    <img src="https://yourdomain.com/path/to/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="1200" height="150">
 
-
+    <!-- Other content of your webpage goes here -->
+    
+</body>
+</html>
 
 ## :bar_chart:  My Stats
 
