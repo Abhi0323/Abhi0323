@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/abhishek-chandragiri/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
 
-- 🔭 I’m currently working on **Generative AI Project**
+- 🔭 I’m currently working on **Generative AI Projects**
 
-- 🌱 I’m currently learning **Azure Cloud Services**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/)
 
-- 💬 Ask me about **Data Analysis, Business Analytics & Data Science**
+- 💬 Ask me about **Data Analysis, Business Analytics, Data Science & AI**
 
 - ⚡ Fun fact **I am an excellent cook**
 
