@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
+- 👨‍💻 [View my portfolio](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/) to see all of my projects.
+
 - 👨‍💻 All of my projects are available at [Portfolio](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/)
 
 - 💬 Ask me about **Data Analysis, Business Analytics, Data Science & AI**
