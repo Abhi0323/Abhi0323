@@ -34,6 +34,8 @@
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://itrak365.com/wp-content/uploads/power-bi-icon-7.png" alt="Power BI" width="100" height="40"/> </a><a href="https://www.tibco.com/products/tibco-spotfire" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/2065496.jpg" alt="Tibco Spotfire" width="80" height="45"/> </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Logo.png" alt="Excel" width="60" height="40"/> </a>
 <a href="https://developers.google.com/analytics" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+
 
 ## :bar_chart:  My Stats
 
