@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abhishekchandragiri.ft@gmail.com**
 
-- 🤗 Exploring and sharing on Hugging Face Spaces: Dive into my interactive projects on Hugging Face Spaces, where I showcase applications of AI and machine learning. From NLP tools to generative models, experience the future of AI through hands-on demos. **https://huggingface.co/Abhishek0323** 
+- 🤗 Dive into my interactive projects on Hugging Face Spaces, where I showcase applications of AI and machine learning. From NLP tools to generative models, experience the future of AI through hands-on demos. **https://huggingface.co/Abhishek0323** 
   
 
 
