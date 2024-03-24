@@ -11,6 +11,8 @@
 
 - 👨‍💻 [View my portfolio](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/?utm_source=github&utm_medium=profile&utm_campaign=Git_Bio) to see all of my projects.
 
+- 📊 Explore my **Tableau dashboards** [here](https://public.tableau.com/app/profile/abhishek.chandragiri).
+
 - 💬 Ask me about **Data Analysis, Business Analytics, Data Science & AI**
 
 - ⚡ Fun fact **I am an excellent cook**
