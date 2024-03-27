@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Generative AI Projects**
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Fine Tuning LLM's**
 
 - 👨‍💻 [View my portfolio](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/?utm_source=github&utm_medium=profile&utm_campaign=Git_Bio) to see all of my projects.
 
