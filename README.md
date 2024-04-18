@@ -49,7 +49,7 @@
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/62756402/219742406-3705ec7a-8fb5-43cf-906e-1d59f5db93c6.png" alt="Flask" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-  <img src="https://fastapi.tiangolo.com/" alt="FastAPI" width="40" height="40"/> </a>
+  <img src="https://i0.wp.com/www.jumpingrivers.com/blog/python-api-deployment-with-rstudio-connect-fastapi/original.png?w=400&ssl=1" alt="FastAPI" width="40" height="40"/> </a>
 
 
 
