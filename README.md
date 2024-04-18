@@ -47,7 +47,7 @@
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="[https://iconduck.com/icons/27362/flask](https://www.google.com/imgres?q=Python%20Flask%20Icon%20png&imgurl=https%3A%2F%2Fseeklogo.com%2Fimages%2FF%2Fflask-logo-44C507ABB7-seeklogo.com.png&imgrefurl=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F273085%2Fflask&docid=oj4Jnrj6ltCEiM&tbnid=ZdFsm3Jc1kKsVM&vet=12ahUKEwi1waaPtcyFAxUY38kDHTlnCIsQM3oECGEQAA..i&w=234&h=300&hcb=2&ved=2ahUKEwi1waaPtcyFAxUY38kDHTlnCIsQM3oECGEQAA)" alt="Flask" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/62756402/219742406-3705ec7a-8fb5-43cf-906e-1d59f5db93c6.png" alt="Flask" width="40" height="40"/>
 </a>
 
 
