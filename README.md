@@ -11,7 +11,7 @@
 
 - 👨‍💻 [View my portfolio](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/?utm_source=github&utm_medium=profile&utm_campaign=Git_Bio) to see all of my projects.
 
-- 📝 Explore detailed blogs on my Data Science and AI projects [here.](https://medium.com/@abhishekgoud1212)
+- 📝 Explore detailed **blogs** on my **Data Science** and **AI** projects [here.](https://medium.com/@abhishekgoud1212)
 
 - 📊 Explore my **Tableau dashboards** [here](https://public.tableau.com/app/profile/abhishek.chandragiri).
 
