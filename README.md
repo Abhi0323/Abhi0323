@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Fine Tuning LLM's**
 
-- 👨‍💻 [View my portfolio](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/?utm_source=github&utm_medium=profile&utm_campaign=Git_Bio) to see all of my projects.
+- 👨‍💻 **[View my portfolio]**(https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/?utm_source=github&utm_medium=profile&utm_campaign=Git_Bio) to see all of my projects.
 
 - 📝 Explore detailed **blogs** on my **Data Science** and **AI** projects [here.](https://medium.com/@abhishekgoud1212)
 
@@ -21,9 +21,9 @@
 
 - 📫 How to reach me **abhishekchandragiri.ft@gmail.com**
 
-- 👨‍💻 Explore more about me by asking any questions to my chat bot here at my portfolio: [Chat-Bot](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/?utm_source=git&utm_medium=bio&utm_campaign=chatbot)
+- 👨‍💻 Explore more about me by asking any questions to my chat bot here at my portfolio: **[Chat-Bot]**(https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/?utm_source=git&utm_medium=bio&utm_campaign=chatbot)
 
-- 🤗 Dive into my interactive projects on Hugging Face Spaces, where I showcase applications of AI and machine learning. From NLP tools to generative models, experience the future of AI through hands-on demos. **https://huggingface.co/Abhishek0323** 
+- 🤗 Dive into my interactive projects on Hugging Face Spaces, where I showcase applications of AI and machine learning. From NLP tools to generative models, experience the future of AI through hands-on demos. **[Hugging Face Spaces]**(https://huggingface.co/Abhishek0323)
   
 
 
