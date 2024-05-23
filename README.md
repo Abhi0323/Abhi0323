@@ -13,7 +13,7 @@
 
 - 📝 Explore detailed **blogs** on my **Data Science** and **AI** projects [**here.**](https://medium.com/@abhishekgoud1212)
 
-- 📊 Explore my **Tableau dashboards** [**here.**](https://public.tableau.com/app/profile/abhishek.chandragiri).
+- 📊 Explore my **Tableau dashboards** [**here.**](https://public.tableau.com/app/profile/abhishek.chandragiri)
 
 - 💬 Ask me about **Data Analysis, Business Analytics, Data Science & AI**
 
