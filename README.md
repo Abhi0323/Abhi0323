@@ -28,7 +28,50 @@
 
 ## Skills
 
-<img height=20 src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></br>
+<img height=30 src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></br>
+<img height=30 src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></br>
+<img height=30 src="">https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white</br>
+<img height=30 src="">https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white</br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+<img height=30 src=""></br>
+
 
 
 
