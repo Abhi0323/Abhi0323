@@ -47,4 +47,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=abhi0323&show_icons=true&theme=merko" align="left" height=160em>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi0323&layout=compact&theme=vision-friendly-dark" align="right" height=160em>
 
-<img src="https://starchart.cc/abhi0323/Abhi0323.svg"
