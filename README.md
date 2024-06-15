@@ -23,7 +23,7 @@
 
 - 👨‍💻 Explore more about me by asking any questions to my chat bot here at my portfolio: [**Chat-Bot**](https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/?utm_source=git&utm_medium=bio&utm_campaign=chatbot)
 
-- 🤗 Dive into my interactive projects on Hugging Face Spaces, where I showcase applications of AI and machine learning. From NLP tools to generative models, experience the future of AI through hands-on demos. [**Hugging Face Spaces**](https://huggingface.co/Abhishek0323)
+- 🤗 Dive into my interactive projects on Hugging Face Spaces: [**Hugging Face Spaces**](https://huggingface.co/Abhishek0323)
   
 
 ## Skills
