@@ -1,151 +1,222 @@
 <div align="center">
 
-# 👋 Hi, I'm Abhishek Chandragiri
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00E676&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I%27m+Abhishek+Chandragiri;AI+Platform+Engineer+%7C+Production+Multimodal+AI;Document+Intelligence+%7C+Healthcare+AI+%28HIPAA%29;GPUs+%7C+CUDA+%7C+Inference+Systems+%7C+MLOps;Building+AI+that+actually+works+in+production" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2ECC40&center=true&vCenter=true&width=850&lines=AI+Platform+Engineer;Production+LLM+%7C+SLM+%7C+VLM+Systems;Document+Intelligence+%7C+Healthcare+AI;GPU+Computing+%7C+CUDA+%7C+NVIDIA;Building+AI+that+actually+works+in+production" />
+<p>
+  <a href="https://www.linkedin.com/in/abhishek-chandragiri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://huggingface.co/Abhishek0323"><img src="https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=white"/></a>
+  <a href="https://medium.com/@abhishekgoud1212"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://public.tableau.com/app/profile/abhishek.chandragiri/vizzes"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/></a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Abhi0323&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Greater%20Philadelphia-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Production%20AI%20Systems-2ECC40?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGk4MnF3ajR1Y2l3Y3p0NHk1azF2b3JtYjQ2bDJ3aDN5b2o2dWh1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfX9Ejfra3ZmNxh6B/giphy.gif">
+<img align="right" height="310" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGk4MnF3ajR1Y2l3Y3p0NHk1azF2b3JtYjQ2bDJ3aDN5b2o2dWh1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfX9Ejfra3ZmNxh6B/giphy.gif" />
 
-## 🚀 About Me
+## 🚀 About Me (Production AI, not demos)
 
-💡 **AI Platform Engineer** building **production-grade AI systems** for complex regulated environments.
+I build **production-grade AI systems for complex regulated environments** — where **correctness, reliability, security, and explainability** matter more than benchmarks.
 
-My work focuses on **Document Intelligence**, **Multimodal AI**, and **large-scale ML platforms** running in secure infrastructures.
+My work sits at the intersection of:
 
-### What I specialize in
+- 📄 **Document Intelligence** (OCR + layout + page understanding + field extraction)
+- 🧠 **Multimodal AI** (LLMs / SLMs / VLMs) for real healthcare workflows
+- ⚙️ **AI Platform Engineering** (on-prem, cloud, gov cloud; microservices; CI/CD)
+- ⚡ **GPU + inference systems** (CUDA, NVIDIA drivers, custom builds, profiling)
 
-- 🧠 **Multimodal AI** (LLMs, SLMs, VLMs)
-- 📄 **Document Intelligence Systems**
-- ⚡ **GPU Inference Optimization**
-- 🏥 **Healthcare AI (HIPAA / PHI / PII)**
-- 🔍 **Evidence-grounded RAG pipelines**
-- 🧩 **Production AI platform engineering**
-
-I design AI systems that must work **in the real world**, not just in notebooks.
+I’m passionate about **Responsible AI in healthcare** — making care faster and easier while staying **audit-friendly, verifiable, and compliant**.
 
 ---
 
-# 🌐 Connect With Me
+## 🏥 What I’ve built in Healthcare AI
 
-<p align="left">
+### ✅ AI platform for medical claims review (HIPAA / PHI / PII)
+A production platform that processes large medical claim PDFs end-to-end:
 
-<a href="https://www.linkedin.com/in/abhishek-chandragiri/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- **OCR + document splitting**
+- **Page classification** (DistilBERT + rules) to categorize page types
+- **Layout detection** (YOLO) to locate page regions (titles, summary boxes, checkboxes, etc.)
+- **Region cropping** to improve OCR/VLM accuracy and reduce compute
+- **Field extraction** (beneficiary details, NPI/MBI, HCPCS/CPT, ICD codes, claim lines, etc.)
+- **Decision support system** using **RAG**, answering nurse review questions with **evidence + traceability**
+- Human-in-the-loop UI: nurses can **verify exactly where an answer came from**
 
-<a href="https://huggingface.co/Abhishek0323">
-<img src="https://img.shields.io/badge/HuggingFace-F9A03C?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</a>
+### ✅ CMS WISeR (2026) — Prior Authorization automation (NJ / MAC Novitas)
+- Built a **full end-to-end service operations module** (frontend + backend) rapidly using AI-assisted development (Cursor/Claude)
+- Implemented an OCR service using **Azure Document Intelligence** with **custom-trained models** for prior auth cover sheets
+- Deployed services using **Azure Web Apps**
 
-<a href="https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
+---
 
-<a href="https://medium.com/@abhishekgoud1212">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
+## 🧠 Open Source Contributions
 
-<a href="https://public.tableau.com/app/profile/abhishek.chandragiri">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-</a>
+### 📦 Docling (LF AI & Data / IBM-origin)
+- Fixed Egret layout label normalization issue
+- Added unit tests to ensure compatibility across layout model label styles
+- Continuing to contribute to Document AI tooling
 
+---
+
+## 🧩 Core Capabilities (What I do well)
+
+✅ **Production Document Intelligence**
+- OCR pipelines, layout detection, page classification, field extraction
+- Handling messy documents: handwriting, checkboxes, signatures, diagrams
+
+✅ **LLM/SLM/VLM Systems**
+- Model selection & benchmarking (LLaMA, Mistral, Phi-3, BioBERT, BioMedBERT, Bio-Mistral)
+- RAG with citations + evidence grounding
+- Guardrails using LangChain (safe inputs/outputs for regulated environments)
+- Fine-tuning + CPU-first optimization via 4-bit quantization (C++/BitNet-style)
+
+✅ **GPU + Inference Engineering**
+- Bare-metal GPU bring-up (drivers, CUDA toolkit, NVCC, kernels)
+- H100 / L40s / A40 / RTX 4090 / RTX 5090 / DGX environments
+- Inference runtimes: PyTorch, ONNX Runtime, llama.cpp
+- Custom builds aligned to CUDA versions + GPU compute capability
+
+✅ **Platform Engineering & Deployment**
+- Microservices architecture
+- On-prem deployment on RHEL-based systems
+- RPM packaging + systemd services for “install → services up”
+- Containers + Kubernetes + ACR
+- CI/CD (Azure DevOps) for RPMs + artifacts + deployments
+- Experience across **on-prem + cloud + gov cloud**
+
+✅ **Reliability, Observability, Security**
+- Performance monitoring stack: Telegraf + InfluxDB + Chronograf
+- System/service/GPU metrics and bottleneck analysis
+- Production tuning: Uvicorn workers, CPU/I/O concurrency, DB pooling
+- Security: HTTPS everywhere, cert-based auth, **mTLS** between services + to DB
+
+✅ **Leadership**
+- Led **15 interns** (Label Studio + YOLO layout detection pipeline)
+- Mentored **3 associates** (install/test/validation, architecture onboarding)
+- Acted as product-owner proxy / client-facing technical lead when needed
+
+---
+
+## 🧰 Tech Stack (Colorful + Organized)
+
+### 🧠 AI / ML / NLP
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge&logo=huggingface&logoColor=000"/>
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/llama.cpp-6D4C41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+</p>
+
+### 📄 Document Intelligence
+<p>
+  <img src="https://img.shields.io/badge/OCR-00ACC1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Layout%20Detection%20(YOLO)-FF1744?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Page%20Classification%20(DistilBERT)-7E57C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20%2B%20Evidence%20Tracing-26A69A?style=for-the-badge"/>
+</p>
+
+### ⚡ GPUs / CUDA
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-0B0F19?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
+  <img src="https://img.shields.io/badge/H100%20%7C%20L40s%20%7C%20A40%20%7C%204090%20%7C%205090-111111?style=for-the-badge"/>
+</p>
+
+### ☁️ Platform / Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,aws,fastapi" />
+  <img src="https://img.shields.io/badge/RPM%20Packaging-CC0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/systemd-0B0F19?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+</p>
+
+### 🗄️ Databases / Vector Search
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://img.shields.io/badge/Postgres%20Vector%20Search-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 📈 Observability / Performance
+<p>
+  <img src="https://img.shields.io/badge/Telegraf-22A2A2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chronograf-8E24AA?style=for-the-badge"/>
+</p>
+
+### 🔐 Security / Compliance
+<p>
+  <img src="https://img.shields.io/badge/mTLS-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cert%20Auth-1565C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HIPAA%20(PHI%2FPII)-D32F2F?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🧠 Open Source Contributions
+## 🌟 Featured Projects (Update links)
 
-### 📦 Docling (LF AI Foundation)
+- 📄 **RAG-Powered AI Assistant (Web + PDFs)**  
+  https://github.com/Abhi0323/RAG-Powered-AI-Assistant-Transforming-Data-Retrieval-and-Analysis-Across-the-Web-and-PDFs
 
-✔ Fixed **Egret layout label normalization** bug  
-✔ Added **unit tests for Egret & Heron models**  
-✔ Improved compatibility for layout model pipelines  
+- 🧠 **Fine-Tuning LLaMA-2 with QLoRA/PEFT**  
+  https://github.com/Abhi0323/Fine-Tuning-LLaMA-2-with-QLORA-and-PEFT
 
----
+- ⚙️ **Real-time ML Deployment (K8s + CI/CD)**  
+  https://github.com/Abhi0323/Real-Time-Customer-Segmentation-with-Scalable-Kubernetes-Deployment-and-CI-CD-Integration
 
-# 🧰 Tech Stack
+- 🏗️ **MLOps Predictive Maintenance (AWS + Docker + CI/CD)**  
+  https://github.com/Abhi0323/Agile-MLOps-Deployment-Docker-AWS-CI-CD-Pipeline
 
-## 🧠 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
-
-## 🤖 LLM & AI Infrastructure
-
-<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VLMs-7B1FA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG%20Systems-00ACC1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-26A69A?style=for-the-badge"/>
+> ⭐ Tip: Add a new repo specifically named something like `healthcare-doc-ai-platform` with a safe, public demo (synthetic PDFs) — it will perfectly match your current brand.
 
 ---
 
-## ⚡ GPU / High Performance AI
-
-<img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia"/>
-<img src="https://img.shields.io/badge/H100%20%7C%20L40s%20%7C%20A40-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/llama.cpp-6D4C41?style=for-the-badge"/>
-
----
-
-## ☁️ Platform & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,azure,aws,fastapi" />
-
----
-
-## 🗄 Data & Retrieval
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-
-<img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Milvus-00A6FB?style=for-the-badge"/>
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhi0323&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0323&layout=compact&theme=radical"/>
-
-<img height="170" src="https://streak-stats.demolab.com/?user=Abhi0323&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhi0323&show_icons=true&theme=radical&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0323&layout=compact&theme=radical&langs_count=10" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Abhi0323&theme=radical" />
 
 </div>
 
 ---
 
-# 📚 Writing
+## ✍️ Writing & Content
 
-I write about **real-world AI engineering problems**.
+- Medium: https://medium.com/@abhishekgoud1212  
+- Portfolio: https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/
 
-Topics include:
-
-- LLM architectures
-- RAG pipelines
-- AI system design
-- GPU inference optimization
-- Production ML systems
-
-📝 **Read my articles:**
-
-👉 https://medium.com/@abhishekgoud1212
+I write about:
+- MCP vs RAG vs Agents
+- Accuracy vs scalability in regulated AI
+- GPU inference, model selection, and production architecture
 
 ---
 
-# ⚡ Fun Fact
+## 🤝 Work With Me
 
-🍳 I love cooking almost as much as building AI systems.
+If you're building:
+- AI platforms in regulated environments  
+- Document intelligence at scale  
+- Evidence-grounded RAG systems  
+- GPU-backed inference services  
+
+Let’s connect: **https://www.linkedin.com/in/abhishek-chandragiri/**
 
 ---
 
 <div align="center">
 
-⭐ **Building AI that works in production, not just demos.**
+### ⭐ I build AI that survives production constraints — compliance, performance, and real-world messy data.
 
 </div>
