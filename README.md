@@ -1,279 +1,222 @@
 <div align="center">
 
-# Abhishek Chandragiri
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00E676&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I%27m+Abhishek+Chandragiri;AI+Platform+Engineer+%7C+Production+Multimodal+AI;Document+Intelligence+%7C+Healthcare+AI+%28HIPAA%29;GPUs+%7C+CUDA+%7C+Inference+Systems+%7C+MLOps;Building+AI+that+actually+works+in+production" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+Platform+Engineer;Production+AI+Systems;Document+Intelligence+%7C+Healthcare+AI;GPU+Computing+%7C+CUDA+%7C+Inference+Engineering;Building+AI+Systems+for+Real+World+Impact" />
+<p>
+  <a href="https://www.linkedin.com/in/abhishek-chandragiri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://huggingface.co/Abhishek0323"><img src="https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=white"/></a>
+  <a href="https://medium.com/@abhishekgoud1212"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://public.tableau.com/app/profile/abhishek.chandragiri/vizzes"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/></a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Abhi0323&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Greater%20Philadelphia-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Production%20AI%20Systems-2ECC40?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## About
+<img align="right" height="310" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGk4MnF3ajR1Y2l3Y3p0NHk1azF2b3JtYjQ2bDJ3aDN5b2o2dWh1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfX9Ejfra3ZmNxh6B/giphy.gif" />
 
-I am an AI Platform Engineer focused on building production-grade artificial intelligence systems for complex real-world environments, particularly in regulated healthcare domains.
+## 🚀 About Me (Production AI, not demos)
 
-My work spans the entire lifecycle of AI systems, from model research and experimentation to infrastructure engineering, deployment, and operational monitoring.
+I build **production-grade AI systems for complex regulated environments** — where **correctness, reliability, security, and explainability** matter more than benchmarks.
 
-Areas of focus include:
+My work sits at the intersection of:
 
-- Large Language Models, Small Language Models, and Vision Language Models  
-- Document Intelligence and multimodal document processing  
-- GPU inference infrastructure and CUDA optimization  
-- AI microservices architectures  
-- Healthcare AI systems operating under HIPAA-compliant environments  
-- Evidence-grounded RAG systems for decision support  
+- 📄 **Document Intelligence** (OCR + layout + page understanding + field extraction)
+- 🧠 **Multimodal AI** (LLMs / SLMs / VLMs) for real healthcare workflows
+- ⚙️ **AI Platform Engineering** (on-prem, cloud, gov cloud; microservices; CI/CD)
+- ⚡ **GPU + inference systems** (CUDA, NVIDIA drivers, custom builds, profiling)
 
-My goal is to design AI platforms that are not only intelligent, but reliable, explainable, and deployable in real operational systems.
+I’m passionate about **Responsible AI in healthcare** — making care faster and easier while staying **audit-friendly, verifiable, and compliant**.
 
 ---
 
-## Healthcare AI Platform Experience
+## 🏥 What I’ve built in Healthcare AI
 
-I contributed to the development of an AI-powered clinical claims review platform used for medical claims processing and clinical document analysis.
+### ✅ AI platform for medical claims review (HIPAA / PHI / PII)
+A production platform that processes large medical claim PDFs end-to-end:
 
-The system processes large unstructured medical claim documents and transforms them into structured insights that assist clinical reviewers in making faster and safer decisions.
+- **OCR + document splitting**
+- **Page classification** (DistilBERT + rules) to categorize page types
+- **Layout detection** (YOLO) to locate page regions (titles, summary boxes, checkboxes, etc.)
+- **Region cropping** to improve OCR/VLM accuracy and reduce compute
+- **Field extraction** (beneficiary details, NPI/MBI, HCPCS/CPT, ICD codes, claim lines, etc.)
+- **Decision support system** using **RAG**, answering nurse review questions with **evidence + traceability**
+- Human-in-the-loop UI: nurses can **verify exactly where an answer came from**
 
-Typical documents contain a mixture of structured and unstructured information such as:
-
-- handwritten notes  
-- clinical signatures  
-- checkboxes  
-- medical diagrams  
-- clinical observations  
-- beneficiary and provider metadata  
-
-The system architecture includes the following stages:
-
-```
-Document Input
-     │
-     ▼
-OCR Processing and Page Splitting
-     │
-     ▼
-Layout Detection using YOLO
-     │
-     ▼
-Page Classification using DistilBERT
-     │
-     ▼
-Region Cropping and Semantic Extraction
-     │
-     ▼
-Field Extraction and Validation
-     │
-     ▼
-RAG-based Decision Support with Evidence Tracing
-```
-
-Clinical reviewers can validate answers produced by the system by viewing the exact document locations where information was extracted.
+### ✅ CMS WISeR (2026) — Prior Authorization automation (NJ / MAC Novitas)
+- Built a **full end-to-end service operations module** (frontend + backend) rapidly using AI-assisted development (Cursor/Claude)
+- Implemented an OCR service using **Azure Document Intelligence** with **custom-trained models** for prior auth cover sheets
+- Deployed services using **Azure Web Apps**
 
 ---
 
-## CMS WISeR Prior Authorization Project
+## 🧠 Open Source Contributions
 
-I also contributed to a system supporting prior authorization workflows aligned with the CMS WISeR model.
-
-This project focused on automating prior authorization document processing and enabling faster claim review workflows.
-
-Key contributions included:
-
-- Designing and implementing a service operations module  
-- Rapid development of full-stack services using AI-assisted engineering tools  
-- Building an OCR pipeline using Azure Document Intelligence  
-- Training custom OCR models for prior authorization cover sheets  
-- Deploying services through Azure Web Apps  
+### 📦 Docling (LF AI & Data / IBM-origin)
+- Fixed Egret layout label normalization issue
+- Added unit tests to ensure compatibility across layout model label styles
+- Continuing to contribute to Document AI tooling
 
 ---
 
-## AI Model Research and Deployment
+## 🧩 Core Capabilities (What I do well)
 
-My work includes evaluating and deploying a wide range of models for document understanding and clinical text processing.
+✅ **Production Document Intelligence**
+- OCR pipelines, layout detection, page classification, field extraction
+- Handling messy documents: handwriting, checkboxes, signatures, diagrams
 
-Models explored and benchmarked include:
+✅ **LLM/SLM/VLM Systems**
+- Model selection & benchmarking (LLaMA, Mistral, Phi-3, BioBERT, BioMedBERT, Bio-Mistral)
+- RAG with citations + evidence grounding
+- Guardrails using LangChain (safe inputs/outputs for regulated environments)
+- Fine-tuning + CPU-first optimization via 4-bit quantization (C++/BitNet-style)
 
-- LLaMA family models  
-- Mistral models  
-- Phi-3 small language models  
-- BioBERT  
-- BioMedBERT  
-- Bio-Mistral  
+✅ **GPU + Inference Engineering**
+- Bare-metal GPU bring-up (drivers, CUDA toolkit, NVCC, kernels)
+- H100 / L40s / A40 / RTX 4090 / RTX 5090 / DGX environments
+- Inference runtimes: PyTorch, ONNX Runtime, llama.cpp
+- Custom builds aligned to CUDA versions + GPU compute capability
 
-Typical work includes:
+✅ **Platform Engineering & Deployment**
+- Microservices architecture
+- On-prem deployment on RHEL-based systems
+- RPM packaging + systemd services for “install → services up”
+- Containers + Kubernetes + ACR
+- CI/CD (Azure DevOps) for RPMs + artifacts + deployments
+- Experience across **on-prem + cloud + gov cloud**
 
-- model benchmarking for domain-specific tasks  
-- fine tuning for specialized document understanding tasks  
-- model quantization (including 4-bit inference)  
-- CPU-first inference optimization  
-- integration with RAG pipelines  
-- implementing guardrails using LangChain  
+✅ **Reliability, Observability, Security**
+- Performance monitoring stack: Telegraf + InfluxDB + Chronograf
+- System/service/GPU metrics and bottleneck analysis
+- Production tuning: Uvicorn workers, CPU/I/O concurrency, DB pooling
+- Security: HTTPS everywhere, cert-based auth, **mTLS** between services + to DB
 
-The focus is always on achieving reliable performance in production environments rather than relying solely on benchmark scores.
-
----
-
-## GPU Systems and Inference Engineering
-
-I work directly with bare-metal GPU environments and inference frameworks to support production AI workloads.
-
-Hardware environments include:
-
-- NVIDIA H100  
-- NVIDIA L40s  
-- NVIDIA A40  
-- RTX 4090  
-- RTX 5090  
-- DGX systems  
-
-Work performed includes:
-
-- installing NVIDIA drivers and kernel modules  
-- configuring CUDA toolkit environments  
-- compiling CUDA components using NVCC  
-- aligning inference frameworks with CUDA versions and GPU compute capability  
-- profiling and optimizing inference performance  
-
-Inference frameworks used include:
-
-- PyTorch  
-- ONNX Runtime  
-- llama.cpp  
-
-These systems are integrated into microservices to serve AI workloads efficiently.
+✅ **Leadership**
+- Led **15 interns** (Label Studio + YOLO layout detection pipeline)
+- Mentored **3 associates** (install/test/validation, architecture onboarding)
+- Acted as product-owner proxy / client-facing technical lead when needed
 
 ---
 
-## Document Intelligence Systems
+## 🧰 Tech Stack (Colorful + Organized)
 
-Medical documents often contain complex layouts that standard OCR pipelines struggle to process.
+### 🧠 AI / ML / NLP
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge&logo=huggingface&logoColor=000"/>
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/llama.cpp-6D4C41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+</p>
 
-To address this, document understanding pipelines were developed that combine computer vision and NLP techniques.
+### 📄 Document Intelligence
+<p>
+  <img src="https://img.shields.io/badge/OCR-00ACC1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Layout%20Detection%20(YOLO)-FF1744?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Page%20Classification%20(DistilBERT)-7E57C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20%2B%20Evidence%20Tracing-26A69A?style=for-the-badge"/>
+</p>
 
-Key components include:
+### ⚡ GPUs / CUDA
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-0B0F19?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
+  <img src="https://img.shields.io/badge/H100%20%7C%20L40s%20%7C%20A40%20%7C%204090%20%7C%205090-111111?style=for-the-badge"/>
+</p>
 
-- layout detection using YOLO  
-- page-level classification models  
-- semantic region cropping for targeted extraction  
-- multimodal reasoning using VLM models  
-- structured data extraction from complex layouts  
+### ☁️ Platform / Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,aws,fastapi" />
+  <img src="https://img.shields.io/badge/RPM%20Packaging-CC0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/systemd-0B0F19?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+</p>
 
-This architecture significantly improves extraction accuracy when compared with full-page processing approaches.
+### 🗄️ Databases / Vector Search
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://img.shields.io/badge/Postgres%20Vector%20Search-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
----
+### 📈 Observability / Performance
+<p>
+  <img src="https://img.shields.io/badge/Telegraf-22A2A2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chronograf-8E24AA?style=for-the-badge"/>
+</p>
 
-## Platform Engineering and Deployment
-
-The systems I work on are deployed across multiple environments including on-prem infrastructure, commercial cloud platforms, and government cloud environments.
-
-Deployment experience includes:
-
-- microservices architecture design  
-- RPM-based packaging for enterprise Linux systems  
-- systemd service configuration  
-- containerized deployments using Docker  
-- orchestration using Kubernetes  
-- CI/CD pipelines built with Azure DevOps  
-
-In regulated environments, deployment strategies must ensure both security and operational reliability.
-
----
-
-## Security and Compliance
-
-Healthcare AI systems must operate under strict security and compliance requirements.
-
-Security mechanisms implemented include:
-
-- certificate-based authentication between microservices  
-- mutual TLS (mTLS) for secure service communication  
-- encrypted communication channels across the entire system  
-- compliance with HIPAA requirements for PHI and PII data  
-
-These measures ensure that the platform operates safely in regulated healthcare environments.
-
----
-
-## Observability and Performance Monitoring
-
-To support reliable production operations, I designed and implemented a monitoring stack based on time-series observability tools.
-
-The monitoring stack includes:
-
-- Telegraf for metric collection  
-- InfluxDB for time-series storage  
-- Chronograf for visualization and dashboards  
-
-Metrics collected include:
-
-- CPU utilization  
-- memory usage  
-- disk IO  
-- GPU utilization  
-- microservice resource usage  
-
-This monitoring system enables rapid diagnosis of performance bottlenecks and supports system capacity planning.
-
----
-
-## Technical Stack
-
-### AI and Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn"/>
-
-### Infrastructure and Platform Engineering
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,aws"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
----
-
-## GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhi0323&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0323&layout=compact&theme=tokyonight"/>
-
-<img height="170" src="https://streak-stats.demolab.com/?user=Abhi0323&theme=tokyonight"/>
-
+### 🔐 Security / Compliance
+<p>
+  <img src="https://img.shields.io/badge/mTLS-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cert%20Auth-1565C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HIPAA%20(PHI%2FPII)-D32F2F?style=for-the-badge"/>
 </p>
 
 ---
 
-## Writing and Publications
+## 🌟 Featured Projects (Update links)
 
-I write about applied AI engineering and real-world AI systems, including topics such as:
+- 📄 **RAG-Powered AI Assistant (Web + PDFs)**  
+  https://github.com/Abhi0323/RAG-Powered-AI-Assistant-Transforming-Data-Retrieval-and-Analysis-Across-the-Web-and-PDFs
 
-- building production-grade AI platforms  
-- RAG architectures and model evaluation  
-- GPU inference optimization  
-- challenges of deploying AI in regulated environments  
+- 🧠 **Fine-Tuning LLaMA-2 with QLoRA/PEFT**  
+  https://github.com/Abhi0323/Fine-Tuning-LLaMA-2-with-QLORA-and-PEFT
 
-Articles can be found at:
+- ⚙️ **Real-time ML Deployment (K8s + CI/CD)**  
+  https://github.com/Abhi0323/Real-Time-Customer-Segmentation-with-Scalable-Kubernetes-Deployment-and-CI-CD-Integration
 
-https://medium.com/@abhishekgoud1212
+- 🏗️ **MLOps Predictive Maintenance (AWS + Docker + CI/CD)**  
+  https://github.com/Abhi0323/Agile-MLOps-Deployment-Docker-AWS-CI-CD-Pipeline
+
+> ⭐ Tip: Add a new repo specifically named something like `healthcare-doc-ai-platform` with a safe, public demo (synthetic PDFs) — it will perfectly match your current brand.
 
 ---
 
-## Connect
+## 📊 GitHub Stats
 
-LinkedIn  
-https://www.linkedin.com/in/abhishek-chandragiri/
+<div align="center">
 
-Portfolio  
-https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhi0323&show_icons=true&theme=radical&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0323&layout=compact&theme=radical&langs_count=10" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Abhi0323&theme=radical" />
 
-Hugging Face  
-https://huggingface.co/Abhishek0323
+</div>
 
-Tableau  
-https://public.tableau.com/app/profile/abhishek.chandragiri
+---
+
+## ✍️ Writing & Content
+
+- Medium: https://medium.com/@abhishekgoud1212  
+- Portfolio: https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/
+
+I write about:
+- MCP vs RAG vs Agents
+- Accuracy vs scalability in regulated AI
+- GPU inference, model selection, and production architecture
+
+---
+
+## 🤝 Work With Me
+
+If you're building:
+- AI platforms in regulated environments  
+- Document intelligence at scale  
+- Evidence-grounded RAG systems  
+- GPU-backed inference services  
+
+Let’s connect: **https://www.linkedin.com/in/abhishek-chandragiri/**
+
+---
+
+<div align="center">
+
+### ⭐ I build AI that survives production constraints — compliance, performance, and real-world messy data.
+
+</div>
