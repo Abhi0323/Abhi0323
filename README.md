@@ -24,11 +24,8 @@
 </a>
 </p>
 
-<p align="center">
-<img src="https://profile-counter.glitch.me/abhi0323/count.svg" height="40"/>
-</p>
-
 <p>
+<img src="https://komarev.com/ghpvc/?username=Abhi0323&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-Greater%20Philadelphia-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-Production%20AI%20Systems-2ECC40?style=for-the-badge" />
 </p>
@@ -37,7 +34,7 @@
 
 ---
 
-<img align="right" height="310" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGk4MnF3ajR1Y2l3Y3p0NHk1azF2b3JtYjQ2bDJ3aDN5b2o2dWh1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfX9Ejfra3ZmNxh6B/giphy.gif" />
+<img align="right" height="310" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" />
 
 ## 🚀 About Me (Production AI, not demos)
 
@@ -56,35 +53,35 @@ I’m passionate about **Responsible AI in healthcare** — making care faster a
 
 ## 🏥 What I’ve built in Healthcare AI
 
-### ✅ AI platform for medical claims review (HIPAA / PHI / PII)
+### AI platform for medical claims review (HIPAA / PHI / PII)
 
 A production platform that processes large medical claim PDFs end-to-end:
 
-- **OCR + document splitting**
-- **Page classification** (DistilBERT + rules)
-- **Layout detection** (YOLO)
-- **Region cropping** to improve OCR/VLM accuracy
-- **Field extraction** (NPI, MBI, HCPCS, CPT, ICD codes)
-- **Decision support system using RAG**
-- Human-in-the-loop verification interface
+- OCR + document splitting  
+- Page classification (DistilBERT + rules)  
+- Layout detection (YOLO)  
+- Region cropping for OCR/VLM accuracy  
+- Field extraction (NPI, MBI, HCPCS, CPT, ICD codes)  
+- Decision support system using RAG  
+- Human-in-the-loop verification interface  
 
-### ✅ CMS WISeR (2026) — Prior Authorization automation
+### CMS WISeR (2026) — Prior Authorization automation
 
-- Built a **full end-to-end service operations module**
-- Rapid development using **AI-assisted engineering tools**
-- Implemented **Azure Document Intelligence OCR**
-- Custom training for prior authorization cover sheets
-- Deployed services on **Azure Web Apps**
+- Built a full end-to-end service operations module  
+- Rapid development using AI-assisted engineering tools  
+- Implemented Azure Document Intelligence OCR  
+- Custom training for prior authorization cover sheets  
+- Deployed services on Azure Web Apps  
 
 ---
 
 ## 🧠 Open Source Contributions
 
-### 📦 Docling (LF AI & Data)
+### Docling (LF AI & Data)
 
-- Fixed Egret layout label normalization issue
-- Added unit tests for layout model compatibility
-- Contributing improvements to Document AI tooling
+- Fixed Egret layout label normalization issue  
+- Added unit tests for layout model compatibility  
+- Contributing improvements to Document AI tooling  
 
 ---
 
@@ -144,22 +141,6 @@ A production platform that processes large medical claim PDFs end-to-end:
 
 ### Dev Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
----
-
-## 🌟 Featured Projects
-
-RAG Powered AI Assistant  
-https://github.com/Abhi0323/RAG-Powered-AI-Assistant-Transforming-Data-Retrieval-and-Analysis-Across-the-Web-and-PDFs
-
-Fine-Tuning LLaMA-2 with QLoRA  
-https://github.com/Abhi0323/Fine-Tuning-LLaMA-2-with-QLORA-and-PEFT
-
-Real-time ML Deployment with Kubernetes  
-https://github.com/Abhi0323/Real-Time-Customer-Segmentation-with-Scalable-Kubernetes-Deployment-and-CI-CD-Integration
-
-Predictive Maintenance MLOps Pipeline  
-https://github.com/Abhi0323/Agile-MLOps-Deployment-Docker-AWS-CI-CD-Pipeline
 
 ---
 
