@@ -160,6 +160,11 @@ A production platform that processes large medical claim PDFs end-to-end:
 
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/Abhi0323?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&plugin_languages=1&plugin_languages_details=1&plugin_isocalendar=1&plugin_isocalendar_duration=full-year" />
+</div>
 ---
 
 ## ✍️ Writing & Content
