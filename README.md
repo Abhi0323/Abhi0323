@@ -54,17 +54,6 @@ A production platform that processes large medical claim PDFs end-to-end:
 - Implemented an OCR service using **Azure Document Intelligence** with **custom-trained models** for prior auth cover sheets
 - Deployed services using **Azure Web Apps**
 
----
-
-## 🧠 Open Source Contributions
-
-### 📦 Docling (LF AI & Data / IBM-origin)
-- Fixed Egret layout label normalization issue
-- Added unit tests to ensure compatibility across layout model label styles
-- Continuing to contribute to Document AI tooling
-
----
-
 ## 🧩 Core Capabilities (What I do well)
 
 ✅ **Production Document Intelligence**
@@ -158,25 +147,6 @@ A production platform that processes large medical claim PDFs end-to-end:
   <img src="https://img.shields.io/badge/HIPAA%20(PHI%2FPII)-D32F2F?style=for-the-badge"/>
 </p>
 
----
-
-## 🌟 Featured Projects (Update links)
-
-- 📄 **RAG-Powered AI Assistant (Web + PDFs)**  
-  https://github.com/Abhi0323/RAG-Powered-AI-Assistant-Transforming-Data-Retrieval-and-Analysis-Across-the-Web-and-PDFs
-
-- 🧠 **Fine-Tuning LLaMA-2 with QLoRA/PEFT**  
-  https://github.com/Abhi0323/Fine-Tuning-LLaMA-2-with-QLORA-and-PEFT
-
-- ⚙️ **Real-time ML Deployment (K8s + CI/CD)**  
-  https://github.com/Abhi0323/Real-Time-Customer-Segmentation-with-Scalable-Kubernetes-Deployment-and-CI-CD-Integration
-
-- 🏗️ **MLOps Predictive Maintenance (AWS + Docker + CI/CD)**  
-  https://github.com/Abhi0323/Agile-MLOps-Deployment-Docker-AWS-CI-CD-Pipeline
-
-> ⭐ Tip: Add a new repo specifically named something like `healthcare-doc-ai-platform` with a safe, public demo (synthetic PDFs) — it will perfectly match your current brand.
-
----
 
 ## 📊 GitHub Stats
 
@@ -194,12 +164,6 @@ A production platform that processes large medical claim PDFs end-to-end:
 
 - Medium: https://medium.com/@abhishekgoud1212  
 - Portfolio: https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/
-
-I write about:
-- MCP vs RAG vs Agents
-- Accuracy vs scalability in regulated AI
-- GPU inference, model selection, and production architecture
-
 ---
 
 ## 🤝 Work With Me
