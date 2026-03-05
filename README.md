@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00E676&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I%27m+Abhishek+Chandragiri;AI+Platform+Engineer+%7C+Production+Multimodal+AI;Document+Intelligence+%7C+Healthcare+AI+%28HIPAA%29;GPUs+%7C+CUDA+%7C+Inference+Systems+%7C+MLOps;Building+AI+that+actually+works+in+production" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00E676&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I%27m+Abhishek+Chandragiri" />
 
 <p>
   <a href="https://www.linkedin.com/in/abhishek-chandragiri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
