@@ -151,9 +151,13 @@ A production platform that processes large medical claim PDFs end-to-end:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhi0323&show_icons=true&theme=radical&hide_border=true&disable_animations=true&cache_seconds=1800&v=2" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0323&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800&v=2" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Abhi0323&theme=radical&hide_border=true&cache_seconds=1800&v=2" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhi0323&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&v=2" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0323&layout=compact&theme=radical&langs_count=10&hide_border=true&cache_seconds=1800&v=2" />
+
+<img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhi0323&theme=radical&hide_border=true" />
+
 </div>
 
 ---
