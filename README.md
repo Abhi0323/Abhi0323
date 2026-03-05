@@ -50,7 +50,7 @@ A production platform that processes large medical claim PDFs end-to-end:
 - **Decision support system** using **RAG**, answering nurse review questions with **evidence + traceability**
 - Human-in-the-loop UI: nurses can **verify exactly where an answer came from**
 
-### ✅ CMS WISeR (2026) — Prior Authorization automation (NJ / MAC Novitas)
+### ✅ Prior Authorization automation 
 - Built a **full end-to-end service operations module** (frontend + backend) rapidly using AI-assisted development (Cursor/Claude)
 - Implemented an OCR service using **Azure Document Intelligence** with **custom-trained models** for prior auth cover sheets
 - Deployed services using **Azure Web Apps**
