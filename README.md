@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" height="300" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/>
+<img align="right" height="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 ## 🚀 About Me
 
 I build **production-grade AI systems for complex regulated environments** — where **correctness, reliability, security, and explainability** matter more than benchmarks.
