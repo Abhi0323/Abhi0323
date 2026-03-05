@@ -11,7 +11,6 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Abhi0323&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Greater%20Philadelphia-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Production%20AI%20Systems-2ECC40?style=for-the-badge" />
 </p>
